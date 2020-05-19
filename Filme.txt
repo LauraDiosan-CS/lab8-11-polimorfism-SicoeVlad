@@ -1,0 +1,4 @@
+The_Greatest_Showman 2 Zendaya Zac_Efron 12/05/2019 Alba-Iulia 800 800
+Titanic 1 Leonardo_di_Caprio 18/02/2004 Cluj 1000 850
+a 2 b c 12/05/2019 abc 4 2
+a 2 b c 02/04/2019 abc 5 2
